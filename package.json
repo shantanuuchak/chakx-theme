@@ -2,6 +2,12 @@
   "name": "chakx",
   "displayName": "ChakX",
   "description": "Code theme for mechanophiliac",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantanuuchak/chakx-theme.git"
+  },
+  "homepage": "https://github.com/shantanuuchak/chakx-theme#readme",
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
