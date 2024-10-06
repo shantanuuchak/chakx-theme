@@ -9,13 +9,12 @@
   },
   "homepage": "https://github.com/shantanuuchak/chakx-theme#readme",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.94.0"
+    "vscode": "^1.60.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark theme", "chakx", "mechanophiliac"],
   "contributes": {
     "themes": [
       {
